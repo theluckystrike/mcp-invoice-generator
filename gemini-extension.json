@@ -1,6 +1,6 @@
 {
   "name": "mcp-invoice",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "description": "MCP server for invoice generation: an invoice generator that can generate a numbered PDF invoice with VAT for your clients. Numbered invoices with tax lines, rendered to a professional PDF.",
   "settings": [
     {
