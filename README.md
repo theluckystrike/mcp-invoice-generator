@@ -302,3 +302,5 @@ argument; when none is stored, documents show `[add: email]` and the tool says s
 letting anyone improvise an address.
 
 **Listed on the [AI Product Index](https://index.percall.dev/l/zovo-invoice.html)** — live remote endpoint at [mcp.zovo.one/s/invoice](https://mcp.zovo.one/s/invoice), free tier, no signup.
+
+**Featured on [Awesome MCP Servers](mcpservers.org)** — [directory listing](https://mcpservers.org/servers/github-com-theluckystrike-mcp-servers-tree-main-servers-invoice) | [live hosted endpoint](https://mcp.zovo.one/s/invoice), free tier, no signup.
